@@ -1,63 +1,32 @@
-# 👋 Hi, I'm Rowan!
+# 👨‍💻 Rowan Victor
 
-Just started learning programming and currently studying **HTML**, **CSS**, **JavaScript** for web development — and a little bit of **C**.
+**`Web Developer`**
 
----
+*Hello, World!*
 
-## 🧠 Currently Learning / Next Up
+As a self-taught web developer, I am eager to carve out my place in this dynamic industry. Creating programs through code is not just enjoyable for me; it sparks my curiosity and drives me forward.
 
-- ✅ HTML/CSS basics
-- ✅ JavaScript fundamentals
-- ⏳ DOM, Events, and Browser APIs
-- ⏳ Git, GitHub workflow
-- ⏳ Responsive Design & Flexbox/Grid
-- 🔜 React
-- 🔜 Tailwind
-- 🔜 C pointers and memory management
+I mainly work in the frontend using `Vue.js` as my framework of choice because of it's simplicity and potential for scaling and `Tailwind CSS` for styling. I'm also looking to learn a bit of backend development with `Laravel` and `MySQL` and integrate it into my projects.
 
----
+I'm currently working on learning `PHP` and `SQL` to lay the foundations of my backend journey while improving my knowledge and understand of Vue. I want to be able to build programs with both frontend and backend in the future. The possibilites of what can be built with this frontend and backend stack, although simple, excites and motivates me further on my learning path.
 
-## 🛠️ Featured Repositories  
+I'm open to connect and collaborate on projects or just discuss anything programming related. You can reach out to me on [X](https://www.x.com/@rowanlearnscode) or on [Discord](https://discord.com/users/1305487936719945769). Let's grow together as fellow developers! 
 
-### The Odin Project - Course Project Repos:
-
-- 🔗 [Recipes Website](https://github.com/rowanvictor01/odin-recipes)  
-- 🔗 [Landing Page](https://github.com/rowanvictor01/odin-landing-page)  
-- 🔗 [Rock Paper Scissors](https://github.com/rowanvictor01/rock-paper-scissors)  
-- 🔗 [Etch a Sketch](https://github.com/rowanvictor01/etch-a-sketch)  
-- 🔗 [Web Calculator](https://github.com/rowanvictor01/web-calculator)  
-
-### Frontend Mentor Challenge Solutions:
-
-- 🔗 [QR Code Component Page](https://github.com/rowanvictor01/qr-code-component)  
-- 🔗 [Blog Preview Card](https://github.com/rowanvictor01/blog-preview-card) 
-
-### Personal Web Dev Projects:
-
-- 🔗 [Library Management System](https://github.com/rowanvictor01/library-management-system)  
-- 🔗 [Bank App](https://github.com/rowanvictor01/cli-bank-app)  
-- 🔗 [Photo Gallery](https://github.com/rowanvictor01/photo-gallery)  
-- 🔗 [Bakery Website](https://github.com/rowanvictor01/bakery-website)  
-- 🔗 [DOM Mini Projects](https://github.com/rowanvictor01/dom-mini-projects)
-
-### C/C++ Projects:
-
-- 🔗 [Expense Tracker](https://github.com/rowanvictor01/simple-c-expense-tracker)    
-- 🔗 [Magic 8 Ball Program](https://github.com/rowanvictor01/magic-8-ball)  
-- 🔗 [Number Guessing Game](https://github.com/rowanvictor01/number-guessing-game)  
-- 🔗 [Palindrome Checker and String Analyzer](https://github.com/rowanvictor01/string-analyzer)  
-- 🔗 [Basic Calculator](https://github.com/rowanvictor01/basic-calculator)
+[![Discord](https://img.shields.io/badge/Discord-black?logo=discord&link=https://discord.com/users/1305487936719945769)](https://discord.com/users/1305487936719945769)  [![X](https://img.shields.io/badge/X-%40rowanlearnscode-black?logo=X&link=https://x.com/@rowanlearnscode)](https://x.com/@rowanlearnscode)  
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ Languages and Tools
 
-- Code Editor: **Neovim**  
-- OS: **Linux Mint**  
-- Terminal: **Wezterm**  
-- Languages: **HTML**, **CSS**, **JavaScript**, **C**  
-- Version Control: **Git**, **GitHub**  
+<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />  <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />  <!-- <img alt="Pinia" src="https://pinia.vuejs.org/logo.svg" width="40" height="40" /> -->  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />  <!-- <img alt="Inertia.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="40" height="40" /> --> <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />  <!-- <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" /> -->  <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" />  <!-- <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> -->  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />  [<img alt="GitHub" width="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]()
+[<img alt="GitHub" width="40" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]()  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />  <img alt="Neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" />  
 
+#
+
+## Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rowanvictor01&show=prs_merged&show_icons=true&theme=tokyonight)]()  
+  
 ---
 
 ## 📬 Let's Connect!
